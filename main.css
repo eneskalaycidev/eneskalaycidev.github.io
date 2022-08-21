@@ -4,7 +4,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #ffffff;
+    color: #d79922;
 }
 
 #backgroundBody {
@@ -13,7 +13,7 @@
     background-position: center center;
     background: url(background.png);
     background-size: cover;
-    background-color:#464646;
+    background-color:#0B0C10;
 }
 
 .fa {
@@ -25,8 +25,8 @@
     margin: 5px 2px;
     border-radius: 50%;
 
-    background: #120e07;
-    color: #ffce54;
+    background: #ffffff;
+    color: #000000;
 }
 
 .fa:hover {
